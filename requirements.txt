@@ -1,2 +1,5 @@
 streamlit
 pandas
+scipy
+plotly
+pip install -r requirements.txt
